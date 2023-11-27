@@ -73,5 +73,5 @@ O Projeto `Flutter_mao_massa` foi desenvolvido com intuito de mostrar a navegaç
 
 #### Meta
 
-Wesley Marques Saraiva - [Linkedlin](https://www.linkedin.com/in/wesley-marques-saraiva/)
+Wesley Marques Saraiva - [Linkedlin](https://www.linkedin.com/in/wesley-marques-saraiva/).
 Distribuido sobre a licença. Veja `LICENÇA` para mais informações.
